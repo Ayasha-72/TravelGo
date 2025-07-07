@@ -38,24 +38,4 @@ The project is deployed using **AWS** and supports cloud-based services for bett
 | **Cloud**       | AWS EC2 (for hosting)         |
 | **Versioning**  | Git & GitHub                  |
 
----
 
-## 🧱 Folder Structure
-
-```bash
-TravelGo/
-│
-├── static/
-│   └── images/         # Image assets
-├── templates/          # HTML pages
-│   ├── index.html
-│   ├── bus.html
-│   ├── train.html
-│   ├── flight.html
-│   ├── hotel.html
-│   └── confirm_*.html
-│
-├── app.py              # Main Flask application
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── .env                # Secret keys and environment variables
