@@ -1,4 +1,4 @@
-# 🌍 TravelGo
+ TravelGo
 
 **TravelGo** is a responsive and user-friendly travel booking web application that allows users to plan and book their journeys conveniently. The system includes support for booking **buses, trains, flights, and hotels**, and is designed for scalability and smooth user experience.
 
