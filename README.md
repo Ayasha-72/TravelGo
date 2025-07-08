@@ -39,3 +39,9 @@ The project is deployed using **AWS** and supports cloud-based services for bett
 | **Versioning**  | Git & GitHub                  |
 
 
+### Main Author
+💻 Project developed and maintained by [Ayasha-72](https://github.com/Ayasha-72)
+
+⚠️ Ignore auto-generated contributor list – only core commits are official.
+
+
